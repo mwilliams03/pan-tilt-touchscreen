@@ -1,10 +1,11 @@
 /*
-        A simple program that demonstrates how to program for a
-        touch screen. Specifically on the Raspberry Pi.
-        This prgram can be used for most Linux based systems.
-        For more details: www.marks-space.com
+        A simple program that demonstrates how to use a touchscreen to
+        control the pan and tilt of a camera. This is specifically on
+        the Raspberry Pi, however this program can be used for most
+        Linux based systems.
+        For more details: ozzmaker.com
 
-    Copyright (C) 2013  Mark Williams
+	Copyright (C) 2015  Mark Williams
 
     This library is free software; you can redistribute it and/or
     modify it under the terms of the GNU Library General Public
