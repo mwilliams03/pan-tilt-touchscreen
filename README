@@ -1,0 +1,8 @@
+	A simple program that demonstrates how to use a touchscreen to
+        control the pan and tilt of a camera. This is specifically on
+        the Raspberry Pi, however this program can be used for most
+        Linux based systems.
+        
+	For more details: ozzmaker.com
+
+        Compile with "gcc -o panTilt panTilt.c -I/opt/vc/include/ -I/opt/vc/include/interface/vmcs_host/linux -L/opt/vc/lib -lbcm_host -I/opt/vc/include/interface/vcos/pthreads"
