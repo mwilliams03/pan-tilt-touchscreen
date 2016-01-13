@@ -3,6 +3,6 @@
         the Raspberry Pi, however this program can be used for most
         Linux based systems.
         
-	For more details: http://ozzmaker.com/2015/03/24/camera-pan-and-tilt-control-with-tft-and-touchscreen/
+	For more details: http://ozzmaker.com/camera-pan-and-tilt-control-with-tft-and-touchscreen/
 
         Compile with "gcc -o panTilt panTilt.c -I/opt/vc/include/ -I/opt/vc/include/interface/vmcs_host/linux -L/opt/vc/lib -lbcm_host -I/opt/vc/include/interface/vcos/pthreads"
